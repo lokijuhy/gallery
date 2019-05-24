@@ -3,34 +3,10 @@
     {
       "width": 3264,
       "height": 2448,
-      "path": "./photos/Art/IMG_3086.jpg",
-      "compressed_path": "./photos/Art/IMG_3086.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_3086.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
       "path": "./photos/Art/IMG_3079.jpg",
       "compressed_path": "./photos/Art/IMG_3079.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Art/IMG_3079.placeholder.jpg"
-    },
-    {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Art/IMG_5796.jpg",
-      "compressed_path": "./photos/Art/IMG_5796.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_5796.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 2448,
-      "path": "./photos/Art/IMG_3084.jpg",
-      "compressed_path": "./photos/Art/IMG_3084.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_3084.placeholder.jpg"
     },
     {
       "width": 3264,
@@ -39,22 +15,14 @@
       "compressed_path": "./photos/Art/IMG_3080.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Art/IMG_3080.placeholder.jpg"
-    },
-    {
-      "width": 3024,
-      "height": 4032,
-      "path": "./photos/Art/IMG_5396.jpg",
-      "compressed_path": "./photos/Art/IMG_5396.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_5396.placeholder.jpg"
-    },
+    },    
     {
       "width": 3264,
       "height": 2448,
-      "path": "./photos/Art/IMG_3081.jpg",
-      "compressed_path": "./photos/Art/IMG_3081.min.jpg",
+      "path": "./photos/Art/IMG_3084.jpg",
+      "compressed_path": "./photos/Art/IMG_3084.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_3081.placeholder.jpg"
+      "placeholder_path": "./photos/Art/IMG_3084.placeholder.jpg"
     },
     {
       "width": 3264,
@@ -67,18 +35,26 @@
     {
       "width": 3264,
       "height": 2448,
+      "path": "./photos/Art/IMG_3081.jpg",
+      "compressed_path": "./photos/Art/IMG_3081.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Art/IMG_3081.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
       "path": "./photos/Art/IMG_3082.jpg",
       "compressed_path": "./photos/Art/IMG_3082.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Art/IMG_3082.placeholder.jpg"
     },
     {
-      "width": 4032,
-      "height": 3024,
-      "path": "./photos/Art/IMG_4616.jpg",
-      "compressed_path": "./photos/Art/IMG_4616.min.jpg",
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Art/IMG_3086.jpg",
+      "compressed_path": "./photos/Art/IMG_3086.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_4616.placeholder.jpg"
+      "placeholder_path": "./photos/Art/IMG_3086.placeholder.jpg"
     },
     {
       "width": 3024,
@@ -87,6 +63,14 @@
       "compressed_path": "./photos/Art/IMG_3592.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Art/IMG_3592.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/Art/IMG_3510.jpg",
+      "compressed_path": "./photos/Art/IMG_3510.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Art/IMG_3510.placeholder.jpg"
     },
     {
       "width": 3264,
@@ -107,10 +91,26 @@
     {
       "width": 4032,
       "height": 3024,
-      "path": "./photos/Art/IMG_3510.jpg",
-      "compressed_path": "./photos/Art/IMG_3510.min.jpg",
+      "path": "./photos/Art/IMG_4616.jpg",
+      "compressed_path": "./photos/Art/IMG_4616.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Art/IMG_3510.placeholder.jpg"
-    }
+      "placeholder_path": "./photos/Art/IMG_4616.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Art/IMG_5396.jpg",
+      "compressed_path": "./photos/Art/IMG_5396.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Art/IMG_5396.placeholder.jpg"
+    },
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Art/IMG_5796.jpg",
+      "compressed_path": "./photos/Art/IMG_5796.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Art/IMG_5796.placeholder.jpg"
+    },
   ]
 }
